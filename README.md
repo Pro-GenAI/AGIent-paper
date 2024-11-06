@@ -9,3 +9,7 @@ Protected by license: License: CC-BY 4.0
 For more info, check out the [LICENSE.md](LICENSE.md) file
 
 This license protects my paper from being published by others without permission.
+
+Paper content files:
+- Markdown file: [paper-AGIent.md](paper-AGIent.md)
+- PDF file: [paper-AGIent.pdf](paper-AGIent.pdf)
