@@ -11,5 +11,9 @@ For more info, check out the [LICENSE.md](LICENSE.md) file
 This license protects my paper from being published by others without permission.
 
 Paper content files:
-- Markdown file: [paper-AGIent.md](paper-AGIent.md)
-- PDF file: [paper-AGIent.pdf](paper-AGIent.pdf)
+- AGIent:
+  - Markdown file: [paper-AGIent.md](paper-AGIent.md)
+  - PDF file: [paper-AGIent.pdf](paper-AGIent.pdf)
+- UpdAgent:
+  - Markdown file: [paper-UpdAgent.md](paper-UpdAgent.md)
+  - PDF file: [paper-UpdAgent.pdf](paper-UpdAgent.pdf)
