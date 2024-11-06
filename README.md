@@ -1,6 +1,10 @@
+Paper 1:
 *AGIent and Tool-Mart*: A Super-Agent Framework Enabled by Marketplace-Driven Tool Selection
 
-[Research preprint]
+Paper 2:
+*UpdAgent*: AI Agent Version Control Framework for Real-time Updation of Tools
+
+[Research article preprints]
 
 Copyright &copy; 2023-2024 Praneeth Vadlapati
 
