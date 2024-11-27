@@ -1,4 +1,4 @@
-### Paper pre-print 1:
+### Paper pre-print:
 *AGIent and Tool-Mart*: A Super-Agent Framework Enabled by Marketplace-Driven Tool Selection
 
 Copyright &copy; 2023-2024 Praneeth Vadlapati
